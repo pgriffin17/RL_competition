@@ -1,2 +1,2 @@
-model_checkpoint_path: "myweights800"
-all_model_checkpoint_paths: "myweights800"
+model_checkpoint_path: "myweights575"
+all_model_checkpoint_paths: "myweights575"
